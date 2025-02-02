@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-pip install open-webui pycloudflared
+pip install pycloudflared
