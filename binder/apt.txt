@@ -2,7 +2,6 @@ aria2
 zip
 tar
 sed
-handbrake-cli
 autoconf
 automake
 build-essential
